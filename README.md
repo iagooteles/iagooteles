@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Iago Teles</h1>
-<h3 align="center">Desenvolvedor Front-end apaixonado por tecnologia, sempre buscando inovar e criar soluções que impactem positivamente os negócios e a experiência dos usuários. Com uma sólida formação em JavaScript, Java e Python, tenho experiência tanto no desenvolvimento front-end quanto no back-end, o que me permite entender e contribuir de forma integral em projetos variados.</h3>
+<h3 align="center">Desenvolvedor Front-end apaixonado por tecnologia, sempre buscando inovar e criar soluções que impactem positivamente os negócios e a experiência dos usuários. Com uma sólida formação em JavaScript, Java e Python, tenho experiência tanto no desenvolvimento front-end quanto no back-end, o que me permite entender e contribuir de forma integral em projetos variados. Fique a vontade para checar meu <a href="https://iagoteles-portfolio.vercel.app/" target="blank">portfólio</a>.</h3>
 <br><br>
-Meu <a href="https://iagoteles-portfolio.vercel.app/" target="blank">portfólio</a>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
