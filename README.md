@@ -12,6 +12,10 @@
 
 
 
-![snake gif](https://github.com/iagooteles/iagooteles/blob/output/github-contribution-grid-snake.gif)
-
-[![readme](https://github.readme-stats.vercel.app/api/pin/?usernmae=iagooteles&repo=iagooteles&theme=react)](https://github.com/iagooteles/iagooteles)
+<p align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
