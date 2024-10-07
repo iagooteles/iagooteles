@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagooteles&layout=compact&hide=jupyter%20notebook" alt="Top Langs" style="width: 45%;">
 </p>
 
-
+<br>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
