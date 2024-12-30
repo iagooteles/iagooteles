@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iagooteles&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" style="width: 45%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagooteles&layout=compact&hide=jupyter%20notebook%2Cblade" alt="Top Langs" style="width: 45%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagooteles&layout=compact&hide=jupyter%20notebook%2Cblade%2Chtml%2Ccss" alt="Top Langs" style="width: 45%;">
 </p>
 
 <br>
