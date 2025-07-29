@@ -16,6 +16,7 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
+  
 <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
@@ -35,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
@@ -50,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -97,6 +98,10 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+</a>
+
 
 </p>
 
