@@ -3,8 +3,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iagooteles&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagooteles&layout=compact&langs_count=8&hide=jupyter%20notebook%2Cblade%2Chtml%2Ccss%2CShaderLab%2CHLSL" alt="Top Langs" style="width: 45%;">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=iagooteles&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" style="width: 45%;">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=iagooteles&layout=compact&langs_count=8&hide=jupyter%20notebook%2Cblade%2Chtml%2Ccss%2CShaderLab%2CHLSL" alt="Top Langs" style="width: 45%;">
 </p>
 
 <br>
