@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, Sou Iago Teles.</h1>
 <h3 align="center">Programador apaixonado por tecnologia, sempre buscando inovar e criar soluções que impactem positivamente os negócios e a experiência dos usuários. Com uma sólida formação em JavaScript, PHP, Java e Python, tenho experiência tanto no desenvolvimento front-end quanto no back-end, o que me permite entender e contribuir de forma integral em projetos variados. Fique a vontade para checar meu <a href="https://iagoteles-portfolio.vercel.app/" target="blank">portfólio</a>.</h3>
-<br><br>
 
 <br>
 
